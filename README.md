@@ -34,6 +34,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidzcode&show_icons=true&locale=en&layout=compact" alt="davidzcode" /></p>
 
-<div style="text-align:center">
+<p align="center">
   <a href="https://app.daily.dev/davidzcode"><img src="https://github.com/davidzcode/davidzcode/blob/main/devcard.svg" width="400" alt="davidzcode's Dev Card"/></a>
-</div>
+</p>
