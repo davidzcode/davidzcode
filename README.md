@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidzcode" alt="davidzcode" /></a> </p>
 
-- 🌱 I’m currently learning **React, NodeJS and Flutter**
+- 🌱 I’m currently learning **Vue, Nest and Flutter**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
