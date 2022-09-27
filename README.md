@@ -18,6 +18,9 @@
 - [Google Cloud: Artifact Registry](https://dev.to/davidzcode/google-cloud-artifact-registry-5ej9)
 <!-- BLOG-POST-LIST:END -->
 
+### Badgets
+[![@davidzcode's Holopin board](https://holopin.io/api/user/board?user=davidzcode)](https://holopin.io/@davidzcode)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/davidzcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="davidzcode" height="30" width="40" /></a>
