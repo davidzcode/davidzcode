@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Good Life Habits: From Developers For Developers](https://dev.to/davidzcode/good-life-habits-from-developers-for-developers-34f5)
 - [Google Cloud: Artifact Registry](https://dev.to/davidzcode/google-cloud-artifact-registry-5ej9)
 <!-- BLOG-POST-LIST:END -->
 
