@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
 - [Google Cloud: Artifact Registry](https://dev.to/davidzcode/google-cloud-artifact-registry-5ej9)
 <!-- BLOG-POST-LIST:END -->
 
