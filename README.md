@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Add i18n to your Angular App](https://dev.to/davidzcode/add-i18n-to-your-angular-app-12ng)
 - [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
 - [Google Cloud: Artifact Registry](https://dev.to/davidzcode/google-cloud-artifact-registry-5ej9)
 <!-- BLOG-POST-LIST:END -->
